@@ -1,0 +1,5 @@
+{
+  "name": "Structured Markdown Editor",
+  "description": "A grid-based editor for creating Markdown documents. Content is structured as blocks, stored as JSON internally, and can be enhanced using an AI-powered assistant.",
+  "requestFramePermissions": []
+}
